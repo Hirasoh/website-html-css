@@ -13,26 +13,26 @@ body {
 }
 .changing {
     padding:100px;
-    border: solid  red;
+    border: solid  #B82E10;
     margin-top: 50px;
     margin-bottom: 50px;
     margin-left: 10px;
-    background-color:black;
-    color: blue;
+    background-color:#110403;
+    color: #141286;
     font-family: 'Raleway', sans-serif;
 }
 .subclass{
     padding:100px;
-    border: solid red;
+    border: solid #B82E10;
     margin-top:50px;
     margin-bottom: 50px;
     margin-right: 10px;
-    background-color:white;
-    color:blue;
+    background-color:#FAFAFB  ;
+    color:#2724CD;
     font-family: 'Raleway', sans-serif;
 }
 .modification{
-    background-color:violet;
+    background-color:#A371A5 ;
     width: 100px;
     border: 1px solid white;
     padding: 10px;
