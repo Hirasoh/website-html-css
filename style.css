@@ -1,7 +1,7 @@
 body {
     margin: 0;
 }
-.oneline {
+.maindiv {
     display:flex;
     justify-content:  space-around;
     
@@ -21,7 +21,7 @@ body {
     color: blue;
     font-family: 'Raleway', sans-serif;
 }
-.l{
+.subclass{
     padding:100px;
     border: solid red;
     margin-top:50px;
@@ -31,7 +31,7 @@ body {
     color:blue;
     font-family: 'Raleway', sans-serif;
 }
-.k{
+.modification{
     background-color:violet;
     width: 100px;
     border: 1px solid white;
