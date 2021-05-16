@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+}
+.oneline {
+    display:flex;
+    justify-content:  space-around;
+    
+}
+.images {
+    display : flex;
+    
+
+}
+.changing {
+    padding:100px;
+    border: solid  red;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 10px;
+    background-color:black;
+    color: blue;
+    font-family: 'Raleway', sans-serif;
+}
+.l{
+    padding:100px;
+    border: solid red;
+    margin-top:50px;
+    margin-bottom: 50px;
+    margin-right: 10px;
+    background-color:white;
+    color:blue;
+    font-family: 'Raleway', sans-serif;
+}
+.k{
+    background-color:violet;
+    width: 100px;
+    border: 1px solid white;
+    padding: 10px;
+    margin: 1px;
+}
